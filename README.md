@@ -159,7 +159,7 @@ File app/view/template/about.php
 
 Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
-
+![image](https://user-images.githubusercontent.com/101716699/172707180-e68cde47-95b1-40eb-b4d7-ce67e8cdb315.png)
 
 
 
