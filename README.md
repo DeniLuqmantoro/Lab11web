@@ -148,5 +148,20 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 Kemudian buat folder template pada direktori view kemudian buat file header.php dan
 footer.php
 
+File app/view/template/header.php
+![image](https://user-images.githubusercontent.com/101716699/172692603-0dfb8580-9a66-4515-aaac-5473941fd116.png)
+
+File app/view/template/footer.php
+![image](https://user-images.githubusercontent.com/101716699/172692701-afdaa21d-f2cb-4add-a866-5aacbeaf96ec.png)
+
+File app/view/template/about.php
+![image](https://user-images.githubusercontent.com/101716699/172693026-99014cae-bbc4-4c24-978a-af599a0519c4.png)
+
+Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
+
+
+
+
+
 
 
