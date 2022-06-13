@@ -193,6 +193,37 @@ Untuk menghubungkan dengan database server. Pada praktikum ini kita gunakan konf
 
 ![image](https://user-images.githubusercontent.com/101716699/173312560-589c7d01-e8fe-4aed-80e9-24cdabbe9d28.png)
 
+5. Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers.
+
+![image](https://user-images.githubusercontent.com/101716699/173336602-71de7f9b-92df-4f48-8006-e1d81939770f.png)
+
+6. Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file baru dengan nama index.php.
+
+![image](https://user-images.githubusercontent.com/101716699/173336765-800f85be-6307-40ad-9030-5a549c967a76.png)
+![image](https://user-images.githubusercontent.com/101716699/173337070-9f1611c5-b47a-4a0a-a1c4-bb2b77396df8.png)
+
+7. Belum ada data yang diampilkan karena belum ada data pada tabel database. Coba tambahkan beberapa data pada database agar dapat ditampilkan datanya.
+
+![image](https://user-images.githubusercontent.com/101716699/173337548-efc158c0-492f-4fd5-92e0-993e5f01b036.png)
+Refresh kembali browser untuk melihat hasil perubahannya.
+
+![image](https://user-images.githubusercontent.com/101716699/173337915-00b89c15-9cb1-4126-872e-aa46634ee2e7.png)
+
+8. Membuat Tampilan Detail Artikel yaitu Tampilan pada saat judul berita di klik maka akan diarahkan ke halaman yang berbeda. dengan cara tambahkan fungsi baru pada Controller Artikel dengan nama view().
+
+![image](https://user-images.githubusercontent.com/101716699/173338973-1c682c85-6691-4bb2-b469-528b68830aed.png)
+
+9. Membuat View Detail. Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
+
+![image](https://user-images.githubusercontent.com/101716699/173339098-73cab41b-9e05-4828-9ae2-796480db86a6.png)
+
+
+
+
+
+
+
+
 
 
 
