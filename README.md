@@ -1,5 +1,6 @@
 # Lab11web
 
+# Pertemuan 12
 <table>
   <tr>
     <td>Nama</td>
@@ -19,7 +20,7 @@
   </tr>
 </table>
 
-Langkah-langkah Praktikum:
+<b>Langkah-langkah Praktikum:</b>
 
 1.	Membuat folder lab11_php_ci
 
@@ -169,3 +170,29 @@ Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga
 
 ![image](https://user-images.githubusercontent.com/101716699/173308351-ed187889-77ee-43d3-800a-0f5f5af721b1.png)
 ![image](https://user-images.githubusercontent.com/101716699/173308390-d2e93979-fd22-45f5-a1ff-c23fbf6d3947.png)
+
+
+#Pertemuan 13
+
+<b> Langkah - langkah Praktikum</b>
+
+1. Membuat Database data artikel dengan nama lab_ci4
+
+![image](https://user-images.githubusercontent.com/101716699/173310784-9899154c-7bc5-41b2-926d-6067d1f0eeaa.png)
+
+2. Membuat tabel pada database lab_ci4
+
+![image](https://user-images.githubusercontent.com/101716699/173311112-06d677ad-6948-434a-a441-d648f5da53c5.png)
+
+3. Melakukan Konfigurasi koneksi database
+Untuk menghubungkan dengan database server. Pada praktikum ini kita gunakan konfigurasi pada file .env.
+
+![image](https://user-images.githubusercontent.com/101716699/173311825-be5ad863-7219-45a8-8fb4-d725f767d44b.png)
+
+4. Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file baru pada direktori app/Models dengan nama ArtikelModel.php
+
+![image](https://user-images.githubusercontent.com/101716699/173312560-589c7d01-e8fe-4aed-80e9-24cdabbe9d28.png)
+
+
+
+
