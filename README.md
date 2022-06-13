@@ -217,6 +217,10 @@ Refresh kembali browser untuk melihat hasil perubahannya.
 
 ![image](https://user-images.githubusercontent.com/101716699/173339098-73cab41b-9e05-4828-9ae2-796480db86a6.png)
 
+10. Membuat Routing untuk artikel detail, Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artikel detail.
+
+![image](https://user-images.githubusercontent.com/101716699/173339650-e2e0dda6-bb95-4f12-9f28-2de983c92da4.png)
+
 
 
 
