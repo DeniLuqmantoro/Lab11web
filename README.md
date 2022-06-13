@@ -37,12 +37,13 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian
 Apache klik Config -> PHP.ini
  
-![image](https://user-images.githubusercontent.com/101716699/172664864-5a76cd3a-d3f7-4a73-ab7a-21e45afbe1b0.png)
+![image](https://user-images.githubusercontent.com/101716699/173289689-ed7a62c5-d332-4614-b4ad-5eb5d8d16fb1.png)
+
 
 Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan
 diaktifkan. Kemudian simpan kembali filenya dan restart Apache web server.
 
- ![image](https://user-images.githubusercontent.com/101716699/172664967-8f6b65b7-ba19-4237-ab89-768df281bb57.png)
+![image](https://user-images.githubusercontent.com/101716699/173289847-98db785c-b873-4aeb-a456-1b422a97d552.png)
 
 3.	Instalasi Codeigniter 4
 Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara
@@ -96,7 +97,7 @@ Tambahkan kode berikut ini pada Routes.php
 
 Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url http://localhost:8080/about seperti berikut. Maka hasilnya akan terjadi error, yang artinya file/page tersebut tidak ada. Untuk dapat mengakses halaman tersebut, harus dibuat terlebih dahulu Contoller yang sesuai dengan routing yang dibuat yaitu Contoller Page.
 
-![image](https://user-images.githubusercontent.com/101716699/172666278-c6c0f347-8ef6-4948-b41c-7cdc69de2da2.png)
+![image](https://user-images.githubusercontent.com/101716699/173296396-77f1366b-8b16-4568-b0af-9caeac20e36d.png)
 
 8.	Membuat Controller
 Kemudian membuat Controller Page. Buat file baru dengan nama page.php
@@ -107,7 +108,7 @@ pada direktori Controller kemudian isi kodenya seperti berikut.
 Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaotu halaman
 sudah dapat diakses.
 
-![image](https://user-images.githubusercontent.com/101716699/172666565-f056820c-1947-4fea-af18-eb878ddad0d1.png)
+![image](https://user-images.githubusercontent.com/101716699/173297298-52ccd65a-6799-4b84-a200-c55a89977bf7.png)
 
 9.	Auto Routing
 Secara default fitur autoroute pada Codeiginiter sudah aktif. Untuk mengubah status
@@ -119,7 +120,7 @@ menjadi false.
 Method ini belum ada pada routing, sehingga cara mengaksesnya dengan menggunakan
 alamat: http://localhost:8080/page/tos
 
-![image](https://user-images.githubusercontent.com/101716699/172666766-14c60270-73d0-4553-9939-72fed979541c.png)
+![image](https://user-images.githubusercontent.com/101716699/173297926-0013d69b-bc77-4651-a4f7-109e81b766d0.png)
  
 10.	Membuat View
 Selanjutnya adalam membuat view untuk tampilan web agar lebih menarik. Buat file
@@ -134,7 +135,7 @@ Ubah method about pada class Controller Page menjadi seperti berikut:
 
 Kemudian lakukan refresh pada halaman tersebut.
 
-![image](https://user-images.githubusercontent.com/101716699/172666957-a9763d8c-b39e-456d-b63f-39917c6c6173.png)
+![image](https://user-images.githubusercontent.com/101716699/173298730-5f0bbf83-c85d-4723-bcbd-d84bf7177a9b.png)
 
 11.	Membuat Layout Web dengan CSS
 Pada dasarnya layout web dengan css dapat diimplamentasikan dengan mudah pada
@@ -159,7 +160,7 @@ File app/view/template/about.php
 
 Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
-![image](https://user-images.githubusercontent.com/101716699/172707180-e68cde47-95b1-40eb-b4d7-ce67e8cdb315.png)
+![image](https://user-images.githubusercontent.com/101716699/173299955-cd901721-71d5-4be4-903c-549067183549.png)
 
 
 
