@@ -162,7 +162,10 @@ Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
 ![image](https://user-images.githubusercontent.com/101716699/173299955-cd901721-71d5-4be4-903c-549067183549.png)
 
+<b>Pertanyaan dan Tugas
+Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.</b>
 
+1. halaman contact
 
-
-
+![image](https://user-images.githubusercontent.com/101716699/173308351-ed187889-77ee-43d3-800a-0f5f5af721b1.png)
+![image](https://user-images.githubusercontent.com/101716699/173308390-d2e93979-fd22-45f5-a1ff-c23fbf6d3947.png)
