@@ -205,9 +205,10 @@ Untuk menghubungkan dengan database server. Pada praktikum ini kita gunakan konf
 7. Belum ada data yang diampilkan karena belum ada data pada tabel database. Coba tambahkan beberapa data pada database agar dapat ditampilkan datanya.
 
 ![image](https://user-images.githubusercontent.com/101716699/173337548-efc158c0-492f-4fd5-92e0-993e5f01b036.png)
+
 Refresh kembali browser untuk melihat hasil perubahannya.
 
-![image](https://user-images.githubusercontent.com/101716699/173337915-00b89c15-9cb1-4126-872e-aa46634ee2e7.png)
+![image](https://user-images.githubusercontent.com/101716699/173803233-8602f5e0-2357-4d19-8996-15a1ee9c556e.png)
 
 8. Membuat Tampilan Detail Artikel yaitu Tampilan pada saat judul berita di klik maka akan diarahkan ke halaman yang berbeda. dengan cara tambahkan fungsi baru pada Controller Artikel dengan nama view().
 
