@@ -221,6 +221,20 @@ Refresh kembali browser untuk melihat hasil perubahannya.
 
 ![image](https://user-images.githubusercontent.com/101716699/173339650-e2e0dda6-bb95-4f12-9f28-2de983c92da4.png)
 
+Kemudian klik pada artikel 1 atau dua untuk melihat hasilnya.
+
+![image](https://user-images.githubusercontent.com/101716699/173782340-24a6d1be-9dcd-480e-a069-a66107a9bf8b.png)
+
+11. Membuat Menu Admin, menu admin adalah untuk proses CRUD data artikel. Buat method baru pada Controller Artikel dengan nama admin_index().
+
+![image](https://user-images.githubusercontent.com/101716699/173783134-61b5501f-0f00-4a58-a12a-0b939af609d4.png)
+
+12. Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+
+![image](https://user-images.githubusercontent.com/101716699/173786150-df852f41-8db4-43e6-a702-c1f38080441b.png)
+![image](https://user-images.githubusercontent.com/101716699/173786171-6bf0105f-7412-49dc-b362-792afbe63d54.png)
+![image](https://user-images.githubusercontent.com/101716699/173786181-532c16d3-d376-42d7-b3c7-b12f2f857e4f.png)
+
 
 
 
