@@ -311,6 +311,15 @@ Selanjutnya buka kembali CLI dan ketik perintah berikut:
 
 9. Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 
+![image](https://user-images.githubusercontent.com/101716699/174490415-d1f641b4-cb5b-4d82-bd4b-6adc732a5985.png)
+
+10. Percobaan Akses Menu Admin, buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka, akan dimuculkan halaman login.
+
+
+11. Fungsi Logout, tambahkan method logout pada Controller User seperti berikut:
+
+
+
 
 
 
