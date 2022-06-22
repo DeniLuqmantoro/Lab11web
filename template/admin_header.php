@@ -13,7 +13,8 @@
 		<nav>
 			<a href="<?= base_url('/');?>">Dashboard</a>
 			<a href="<?= base_url('/artikel');?>">Artikel</a>
-			<a href="<?= base_url('form_add');?>" class="active">Tambah Artikel</a>
+			<a href="<?= base_url('add');?>" class="active">Tambah Artikel</a>
+			<a href="<?= base_url('/user/logout');?>">Logout</a>
 		</nav>
 		<section id="wrapper">
 		<section id="main">
