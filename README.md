@@ -315,22 +315,17 @@ Selanjutnya buka kembali CLI dan ketik perintah berikut:
 
 10. Percobaan Akses Menu Admin, buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka, akan dimuculkan halaman login.
 
+![image](https://user-images.githubusercontent.com/101716699/174937365-bba4ffe8-bea6-4a9b-ba4d-3839133989c3.png)
 
 11. Fungsi Logout, tambahkan method logout pada Controller User seperti berikut:
 
+![image](https://user-images.githubusercontent.com/101716699/174937609-c1bcdac0-1bf4-44f4-945f-0906a8012e46.png)
 
+Kemudian tambahkan navbar pada admin_header seperti berikut:
 
+![image](https://user-images.githubusercontent.com/101716699/174938958-4ba23a85-f849-4c0e-a857-62af5a265f63.png)
 
+Ketika kita klik navbar maka akan langsunh mengarah pada halaman login.
 
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/101716699/174939830-42f74973-ae6f-4ffa-9e0f-36c931ffb435.png)
 
