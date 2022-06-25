@@ -370,8 +370,8 @@ Ketika kita klik navbar maka akan langsunh mengarah pada halaman login.
 
 10. Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut.
 
+![image](https://user-images.githubusercontent.com/101716699/175784912-e6f50f36-ad8c-4e8c-8d14-1ab605ec262a.png)
 
+11. Ujicoba file upload dengan mengakses menu tambah artikel.
 
-
-
-
+![image](https://user-images.githubusercontent.com/101716699/175784936-d8c3bab7-6abb-464f-bda3-32e36f04b9e4.png)
