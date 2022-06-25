@@ -338,6 +338,16 @@ Ketika kita klik navbar maka akan langsunh mengarah pada halaman login.
 
 2. Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
 
+![image](https://user-images.githubusercontent.com/101716699/175783875-c7f43a49-3b55-4f1d-b5ea-f8c89a4b5aba.png)
+
+3. Dan pada link pager ubah seperti berikut.
+
+![image](https://user-images.githubusercontent.com/101716699/175784167-f507ad2e-58a8-4275-bc2a-0b295b226e06.png)
+
+4. Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
+
+
+
 
 
 
