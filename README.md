@@ -352,7 +352,23 @@ Ketika kita klik navbar maka akan langsunh mengarah pada halaman login.
 
 ![image](https://user-images.githubusercontent.com/101716699/175784391-1f254221-407b-46b2-8689-04c8dd875018.png)
 
+6. Dan pada link pager ubah seperti berikut.
 
+![image](https://user-images.githubusercontent.com/101716699/175784477-bd7ae153-ed1e-4bd0-a2ef-01f0f151ea13.png)
+
+7. Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
+
+![image](https://user-images.githubusercontent.com/101716699/175784537-93fb47b3-ee26-4e9c-b3e0-7d33caad799d.png)
+
+8. Upload Gambar, menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
+
+![image](https://user-images.githubusercontent.com/101716699/175784604-35f91a4c-72df-4adb-a0f4-e4e5991a736e.png)
+
+9. Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti berikut.
+
+![image](https://user-images.githubusercontent.com/101716699/175784816-c9a8c4e7-afd1-417e-8635-f64689dea551.png)
+
+10. Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut.
 
 
 
