@@ -329,3 +329,16 @@ Ketika kita klik navbar maka akan langsunh mengarah pada halaman login.
 
 ![image](https://user-images.githubusercontent.com/101716699/174939830-42f74973-ae6f-4ffa-9e0f-36c931ffb435.png)
 
+
+# Pertemuan 15
+
+1. Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode pada method admin_index seperti berikut.
+
+![image](https://user-images.githubusercontent.com/101716699/175770007-53df7cde-b06f-4d10-8bd1-e8372ccfb593.png)
+
+2. Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
+
+
+
+
+
