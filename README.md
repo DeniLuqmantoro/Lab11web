@@ -338,13 +338,20 @@ Ketika kita klik navbar maka akan langsunh mengarah pada halaman login.
 
 2. Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
 
-![image](https://user-images.githubusercontent.com/101716699/175783875-c7f43a49-3b55-4f1d-b5ea-f8c89a4b5aba.png)
+![image](https://user-images.githubusercontent.com/101716699/175784231-51738ac5-192b-40c3-bee1-2256c94d7bde.png)
 
-3. Dan pada link pager ubah seperti berikut.
+3. Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat hasilnya.
 
-![image](https://user-images.githubusercontent.com/101716699/175784167-f507ad2e-58a8-4275-bc2a-0b295b226e06.png)
+![image](https://user-images.githubusercontent.com/101716699/175784259-cc7591ec-9e5d-4e1d-ac9b-9051b1109498.png)
 
-4. Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
+4.Membuat Pencarian, pencarian data digunakan untuk memfilter data. Untuk membuat pencarian data, buka kembali Controller Artikel, pada method admin_index ubah kodenya seperti berikut:
+
+![image](https://user-images.githubusercontent.com/101716699/175784338-cb95ddb2-0dc2-4a1f-825c-786d68e767bf.png)
+
+5. Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel seperti berikut:
+
+![image](https://user-images.githubusercontent.com/101716699/175784391-1f254221-407b-46b2-8689-04c8dd875018.png)
+
 
 
 
